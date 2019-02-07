@@ -382,6 +382,28 @@
           "build/MonoAndroid81/Xamarin.Android.Support.Vector.Drawable.targets": {}
         }
       },
+      "Xamarin.Controls.SignaturePad/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid/SignaturePad.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid/SignaturePad.dll": {}
+        }
+      },
+      "Xamarin.Controls.SignaturePad.Forms/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Controls.SignaturePad": "3.0.0",
+          "Xamarin.Forms": "2.5.0.280555"
+        },
+        "compile": {
+          "lib/MonoAndroid/SignaturePad.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid/SignaturePad.Forms.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.0.1": {
         "type": "package",
         "dependencies": {
@@ -434,6 +456,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xam.Plugin.Media": "4.0.1.5",
+          "Xamarin.Controls.SignaturePad.Forms": "3.0.0",
           "Xamarin.Essentials": "1.0.1",
           "Xamarin.Forms": "3.4.0.1008975"
         },
@@ -844,6 +867,46 @@
         "xamarin.android.support.vector.drawable.nuspec"
       ]
     },
+    "Xamarin.Controls.SignaturePad/3.0.0": {
+      "sha512": "IlQWFnD5z8FFU9NLATkVHkiGZjdOl6dm5v7MsMXpbMzjHCKU1xFHQ5HlZYXW7jH3Qi2JmpLewNFJbwM3f1/BlA==",
+      "type": "package",
+      "path": "xamarin.controls.signaturepad/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/SignaturePad.dll",
+        "lib/MonoAndroid/SignaturePad.xml",
+        "lib/Xamarin.iOS/SignaturePad.dll",
+        "lib/Xamarin.iOS/SignaturePad.xml",
+        "lib/uap10.0/SignaturePad.dll",
+        "lib/uap10.0/SignaturePad.pri",
+        "lib/uap10.0/SignaturePad.xml",
+        "lib/uap10.0/SignaturePad/SignaturePad.xr.xml",
+        "lib/uap10.0/SignaturePad/Themes/Generic.xbf",
+        "xamarin.controls.signaturepad.3.0.0.nupkg.sha512",
+        "xamarin.controls.signaturepad.nuspec"
+      ]
+    },
+    "Xamarin.Controls.SignaturePad.Forms/3.0.0": {
+      "sha512": "LGw5vKuHsx/pQLD4GNEO/zrQVTFXsXnh6gzKCIMk/bMQTtfwfk6fGKgMeVwcR6/5DpOyVDzZg2B39MVYblAvdA==",
+      "type": "package",
+      "path": "xamarin.controls.signaturepad.forms/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/SignaturePad.Forms.dll",
+        "lib/MonoAndroid/SignaturePad.Forms.xml",
+        "lib/Xamarin.iOS/SignaturePad.Forms.dll",
+        "lib/Xamarin.iOS/SignaturePad.Forms.xml",
+        "lib/netstandard1.0/SignaturePad.Forms.dll",
+        "lib/netstandard1.0/SignaturePad.Forms.xml",
+        "lib/uap10.0/SignaturePad.Forms.dll",
+        "lib/uap10.0/SignaturePad.Forms.pri",
+        "lib/uap10.0/SignaturePad.Forms.xml",
+        "xamarin.controls.signaturepad.forms.3.0.0.nupkg.sha512",
+        "xamarin.controls.signaturepad.forms.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.0.1": {
       "sha512": "cGSje2LlYsCdscPt2zAG4e0Zzr08zc21Cj4DAMub3GR37lc/vzAVwGxco8NeCSzcZs147wYbXkFCXwOr4LUO9A==",
       "type": "package",
@@ -1039,6 +1102,7 @@
       "Xamarin.Android.Support.v7.AppCompat >= 27.0.2.1",
       "Xamarin.Android.Support.v7.CardView >= 27.0.2.1",
       "Xamarin.Android.Support.v7.MediaRouter >= 27.0.2.1",
+      "Xamarin.Controls.SignaturePad.Forms >= 3.0.0",
       "Xamarin.Essentials >= 1.0.1",
       "Xamarin.Forms >= 3.4.0.1008975"
     ]
@@ -1103,6 +1167,10 @@
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
             "version": "[27.0.2.1, )"
+          },
+          "Xamarin.Controls.SignaturePad.Forms": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

@@ -30,3 +30,5 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 netstandard
+SignaturePad
+SignaturePad.Forms
