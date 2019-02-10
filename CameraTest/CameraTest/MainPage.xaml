@@ -5,11 +5,11 @@
              x:Class="CameraTest.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
+        <!-- Placed new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-    
+        
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />

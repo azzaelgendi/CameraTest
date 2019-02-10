@@ -3,6 +3,8 @@ FormsViewGroup
 Plugin.CurrentActivity
 Plugin.Media
 Plugin.Permissions
+SignaturePad
+SignaturePad.Forms
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -29,6 +31,6 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+XLabs.Core
 netstandard
-SignaturePad
-SignaturePad.Forms
+System.Resources.ResourceManager

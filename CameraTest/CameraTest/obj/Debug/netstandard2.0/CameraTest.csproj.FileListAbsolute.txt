@@ -9,3 +9,8 @@ C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\obj\Debug\netstan
 C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.dll
 C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.pdb
 C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AZZA ELGENDY\Desktop\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.csproj.CopyComplete

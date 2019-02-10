@@ -451,6 +451,15 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "XLabs.Core/2.0.5782": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll": {}
+        }
+      },
       "CameraTest/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -1087,6 +1096,23 @@
         "xamarin.forms.nuspec"
       ]
     },
+    "XLabs.Core/2.0.5782": {
+      "sha512": "XLRztFIAjUYfjaaur4aPa/gjBNOwnAoelnmm83v4U0R5dJcWhll5Sci3s8nJWpHv1unwX1TuRsWT0rqMNm0PzA==",
+      "type": "package",
+      "path": "xlabs.core/2.0.5782",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Xamarin.iOS10/XLabs.Core.XML",
+        "lib/Xamarin.iOS10/XLabs.Core.dll",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.XML",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.XML",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll",
+        "xlabs.core.2.0.5782.nupkg.sha512",
+        "xlabs.core.nuspec"
+      ]
+    },
     "CameraTest/1.0.0": {
       "type": "project",
       "path": "../CameraTest/CameraTest.csproj",
@@ -1096,6 +1122,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
       "CameraTest >= 1.0.0",
+      "XLabs.Core >= 2.0.5782",
       "Xam.Plugin.Media >= 4.0.1.5",
       "Xamarin.Android.Support.Design >= 27.0.2.1",
       "Xamarin.Android.Support.v4 >= 27.0.2.1",
@@ -1144,6 +1171,10 @@
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
+          "XLabs.Core": {
+            "target": "Package",
+            "version": "[2.0.5782, )"
+          },
           "Xam.Plugin.Media": {
             "target": "Package",
             "version": "[4.0.1.5, )"

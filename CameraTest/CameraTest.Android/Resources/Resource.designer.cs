@@ -26,6 +26,52 @@ namespace CameraTest.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Xamarin.Controls.Resource.Attribute.captionText = global::CameraTest.Droid.Resource.Attribute.captionText;
+			global::Xamarin.Controls.Resource.Attribute.captionTextColor = global::CameraTest.Droid.Resource.Attribute.captionTextColor;
+			global::Xamarin.Controls.Resource.Attribute.captionTextSize = global::CameraTest.Droid.Resource.Attribute.captionTextSize;
+			global::Xamarin.Controls.Resource.Attribute.clearLabelText = global::CameraTest.Droid.Resource.Attribute.clearLabelText;
+			global::Xamarin.Controls.Resource.Attribute.clearLabelTextColor = global::CameraTest.Droid.Resource.Attribute.clearLabelTextColor;
+			global::Xamarin.Controls.Resource.Attribute.clearLabelTextSize = global::CameraTest.Droid.Resource.Attribute.clearLabelTextSize;
+			global::Xamarin.Controls.Resource.Attribute.signatureLineColor = global::CameraTest.Droid.Resource.Attribute.signatureLineColor;
+			global::Xamarin.Controls.Resource.Attribute.signatureLineSpacing = global::CameraTest.Droid.Resource.Attribute.signatureLineSpacing;
+			global::Xamarin.Controls.Resource.Attribute.signatureLineWidth = global::CameraTest.Droid.Resource.Attribute.signatureLineWidth;
+			global::Xamarin.Controls.Resource.Attribute.signaturePromptText = global::CameraTest.Droid.Resource.Attribute.signaturePromptText;
+			global::Xamarin.Controls.Resource.Attribute.signaturePromptTextColor = global::CameraTest.Droid.Resource.Attribute.signaturePromptTextColor;
+			global::Xamarin.Controls.Resource.Attribute.signaturePromptTextSize = global::CameraTest.Droid.Resource.Attribute.signaturePromptTextSize;
+			global::Xamarin.Controls.Resource.Attribute.strokeColor = global::CameraTest.Droid.Resource.Attribute.strokeColor;
+			global::Xamarin.Controls.Resource.Attribute.strokeWidth = global::CameraTest.Droid.Resource.Attribute.strokeWidth;
+			global::Xamarin.Controls.Resource.Color.signature_pad_dark_color = global::CameraTest.Droid.Resource.Color.signature_pad_dark_color;
+			global::Xamarin.Controls.Resource.Color.signature_pad_light_color = global::CameraTest.Droid.Resource.Color.signature_pad_light_color;
+			global::Xamarin.Controls.Resource.Dimension.signature_pad_font_size = global::CameraTest.Droid.Resource.Dimension.signature_pad_font_size;
+			global::Xamarin.Controls.Resource.Dimension.signature_pad_line_thickness = global::CameraTest.Droid.Resource.Dimension.signature_pad_line_thickness;
+			global::Xamarin.Controls.Resource.Dimension.signature_pad_narrow_spacing = global::CameraTest.Droid.Resource.Dimension.signature_pad_narrow_spacing;
+			global::Xamarin.Controls.Resource.Dimension.signature_pad_wide_spacing = global::CameraTest.Droid.Resource.Dimension.signature_pad_wide_spacing;
+			global::Xamarin.Controls.Resource.Drawable.signature_pad_background = global::CameraTest.Droid.Resource.Drawable.signature_pad_background;
+			global::Xamarin.Controls.Resource.Id.background_image = global::CameraTest.Droid.Resource.Id.background_image;
+			global::Xamarin.Controls.Resource.Id.caption = global::CameraTest.Droid.Resource.Id.caption;
+			global::Xamarin.Controls.Resource.Id.clear_label = global::CameraTest.Droid.Resource.Id.clear_label;
+			global::Xamarin.Controls.Resource.Id.signature_canvas = global::CameraTest.Droid.Resource.Id.signature_canvas;
+			global::Xamarin.Controls.Resource.Id.signature_line = global::CameraTest.Droid.Resource.Id.signature_line;
+			global::Xamarin.Controls.Resource.Id.signature_prompt = global::CameraTest.Droid.Resource.Id.signature_prompt;
+			global::Xamarin.Controls.Resource.Layout.signature_pad_layout = global::CameraTest.Droid.Resource.Layout.signature_pad_layout;
+			global::Xamarin.Controls.Resource.String.signature_pad_caption_text = global::CameraTest.Droid.Resource.String.signature_pad_caption_text;
+			global::Xamarin.Controls.Resource.String.signature_pad_clear_label_text = global::CameraTest.Droid.Resource.String.signature_pad_clear_label_text;
+			global::Xamarin.Controls.Resource.String.signature_pad_prompt_text = global::CameraTest.Droid.Resource.String.signature_pad_prompt_text;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView = global::CameraTest.Droid.Resource.Styleable.SignaturePadView;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_captionText = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_captionText;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_captionTextColor = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_captionTextColor;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_captionTextSize = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_captionTextSize;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_clearLabelText = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_clearLabelText;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_clearLabelTextColor = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_clearLabelTextColor;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_clearLabelTextSize = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_clearLabelTextSize;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_signatureLineColor = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_signatureLineColor;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_signatureLineSpacing = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_signatureLineSpacing;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_signatureLineWidth = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_signatureLineWidth;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_signaturePromptText = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_signaturePromptText;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_signaturePromptTextColor = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_signaturePromptTextColor;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_signaturePromptTextSize = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_signaturePromptTextSize;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_strokeColor = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_strokeColor;
+			global::Xamarin.Controls.Resource.Styleable.SignaturePadView_strokeWidth = global::CameraTest.Droid.Resource.Styleable.SignaturePadView_strokeWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::CameraTest.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -334,6 +380,15 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0100ce
 			public const int buttonTintMode = 2130772174;
 			
+			// aapt resource value: 0x7f010178
+			public const int captionText = 2130772344;
+			
+			// aapt resource value: 0x7f01017a
+			public const int captionTextColor = 2130772346;
+			
+			// aapt resource value: 0x7f010179
+			public const int captionTextSize = 2130772345;
+			
 			// aapt resource value: 0x7f010017
 			public const int cardBackgroundColor = 2130771991;
 			
@@ -357,6 +412,15 @@ namespace CameraTest.Droid
 			
 			// aapt resource value: 0x7f0100be
 			public const int checkedTextViewStyle = 2130772158;
+			
+			// aapt resource value: 0x7f01017e
+			public const int clearLabelText = 2130772350;
+			
+			// aapt resource value: 0x7f010180
+			public const int clearLabelTextColor = 2130772352;
+			
+			// aapt resource value: 0x7f01017f
+			public const int clearLabelTextSize = 2130772351;
 			
 			// aapt resource value: 0x7f0100ee
 			public const int closeIcon = 2130772206;
@@ -940,6 +1004,24 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f010048
 			public const int showTitle = 2130772040;
 			
+			// aapt resource value: 0x7f010175
+			public const int signatureLineColor = 2130772341;
+			
+			// aapt resource value: 0x7f010177
+			public const int signatureLineSpacing = 2130772343;
+			
+			// aapt resource value: 0x7f010176
+			public const int signatureLineWidth = 2130772342;
+			
+			// aapt resource value: 0x7f01017b
+			public const int signaturePromptText = 2130772347;
+			
+			// aapt resource value: 0x7f01017d
+			public const int signaturePromptTextColor = 2130772349;
+			
+			// aapt resource value: 0x7f01017c
+			public const int signaturePromptTextSize = 2130772348;
+			
 			// aapt resource value: 0x7f010046
 			public const int singleChoiceItemLayout = 2130772038;
 			
@@ -978,6 +1060,12 @@ namespace CameraTest.Droid
 			
 			// aapt resource value: 0x7f010128
 			public const int statusBarScrim = 2130772264;
+			
+			// aapt resource value: 0x7f010173
+			public const int strokeColor = 2130772339;
+			
+			// aapt resource value: 0x7f010174
+			public const int strokeWidth = 2130772340;
 			
 			// aapt resource value: 0x7f0100e5
 			public const int subMenuArrow = 2130772197;
@@ -1263,44 +1351,44 @@ namespace CameraTest.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0e004f
-			public const int abc_background_cache_hint_selector_material_dark = 2131624015;
-			
-			// aapt resource value: 0x7f0e0050
-			public const int abc_background_cache_hint_selector_material_light = 2131624016;
-			
 			// aapt resource value: 0x7f0e0051
-			public const int abc_btn_colored_borderless_text_material = 2131624017;
+			public const int abc_background_cache_hint_selector_material_dark = 2131624017;
 			
 			// aapt resource value: 0x7f0e0052
-			public const int abc_btn_colored_text_material = 2131624018;
+			public const int abc_background_cache_hint_selector_material_light = 2131624018;
 			
 			// aapt resource value: 0x7f0e0053
-			public const int abc_color_highlight_material = 2131624019;
+			public const int abc_btn_colored_borderless_text_material = 2131624019;
 			
 			// aapt resource value: 0x7f0e0054
-			public const int abc_hint_foreground_material_dark = 2131624020;
+			public const int abc_btn_colored_text_material = 2131624020;
 			
 			// aapt resource value: 0x7f0e0055
-			public const int abc_hint_foreground_material_light = 2131624021;
+			public const int abc_color_highlight_material = 2131624021;
+			
+			// aapt resource value: 0x7f0e0056
+			public const int abc_hint_foreground_material_dark = 2131624022;
+			
+			// aapt resource value: 0x7f0e0057
+			public const int abc_hint_foreground_material_light = 2131624023;
 			
 			// aapt resource value: 0x7f0e0004
 			public const int abc_input_method_navigation_guard = 2131623940;
 			
-			// aapt resource value: 0x7f0e0056
-			public const int abc_primary_text_disable_only_material_dark = 2131624022;
-			
-			// aapt resource value: 0x7f0e0057
-			public const int abc_primary_text_disable_only_material_light = 2131624023;
-			
 			// aapt resource value: 0x7f0e0058
-			public const int abc_primary_text_material_dark = 2131624024;
+			public const int abc_primary_text_disable_only_material_dark = 2131624024;
 			
 			// aapt resource value: 0x7f0e0059
-			public const int abc_primary_text_material_light = 2131624025;
+			public const int abc_primary_text_disable_only_material_light = 2131624025;
 			
 			// aapt resource value: 0x7f0e005a
-			public const int abc_search_url_text = 2131624026;
+			public const int abc_primary_text_material_dark = 2131624026;
+			
+			// aapt resource value: 0x7f0e005b
+			public const int abc_primary_text_material_light = 2131624027;
+			
+			// aapt resource value: 0x7f0e005c
+			public const int abc_search_url_text = 2131624028;
 			
 			// aapt resource value: 0x7f0e0005
 			public const int abc_search_url_text_normal = 2131623941;
@@ -1311,29 +1399,29 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0e0007
 			public const int abc_search_url_text_selected = 2131623943;
 			
-			// aapt resource value: 0x7f0e005b
-			public const int abc_secondary_text_material_dark = 2131624027;
-			
-			// aapt resource value: 0x7f0e005c
-			public const int abc_secondary_text_material_light = 2131624028;
-			
 			// aapt resource value: 0x7f0e005d
-			public const int abc_tint_btn_checkable = 2131624029;
+			public const int abc_secondary_text_material_dark = 2131624029;
 			
 			// aapt resource value: 0x7f0e005e
-			public const int abc_tint_default = 2131624030;
+			public const int abc_secondary_text_material_light = 2131624030;
 			
 			// aapt resource value: 0x7f0e005f
-			public const int abc_tint_edittext = 2131624031;
+			public const int abc_tint_btn_checkable = 2131624031;
 			
 			// aapt resource value: 0x7f0e0060
-			public const int abc_tint_seek_thumb = 2131624032;
+			public const int abc_tint_default = 2131624032;
 			
 			// aapt resource value: 0x7f0e0061
-			public const int abc_tint_spinner = 2131624033;
+			public const int abc_tint_edittext = 2131624033;
 			
 			// aapt resource value: 0x7f0e0062
-			public const int abc_tint_switch_track = 2131624034;
+			public const int abc_tint_seek_thumb = 2131624034;
+			
+			// aapt resource value: 0x7f0e0063
+			public const int abc_tint_spinner = 2131624035;
+			
+			// aapt resource value: 0x7f0e0064
+			public const int abc_tint_switch_track = 2131624036;
 			
 			// aapt resource value: 0x7f0e0008
 			public const int accent_material_dark = 2131623944;
@@ -1389,20 +1477,20 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0e0003
 			public const int cardview_shadow_start_color = 2131623939;
 			
+			// aapt resource value: 0x7f0e0050
+			public const int colorAccent = 2131624016;
+			
 			// aapt resource value: 0x7f0e004e
-			public const int colorAccent = 2131624014;
+			public const int colorPrimary = 2131624014;
 			
-			// aapt resource value: 0x7f0e004c
-			public const int colorPrimary = 2131624012;
-			
-			// aapt resource value: 0x7f0e004d
-			public const int colorPrimaryDark = 2131624013;
+			// aapt resource value: 0x7f0e004f
+			public const int colorPrimaryDark = 2131624015;
 			
 			// aapt resource value: 0x7f0e0040
 			public const int design_bottom_navigation_shadow_color = 2131624000;
 			
-			// aapt resource value: 0x7f0e0063
-			public const int design_error = 2131624035;
+			// aapt resource value: 0x7f0e0065
+			public const int design_error = 2131624037;
 			
 			// aapt resource value: 0x7f0e0041
 			public const int design_fab_shadow_end_color = 2131624001;
@@ -1428,8 +1516,8 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0e0048
 			public const int design_snackbar_background_color = 2131624008;
 			
-			// aapt resource value: 0x7f0e0064
-			public const int design_tint_password_toggle = 2131624036;
+			// aapt resource value: 0x7f0e0066
+			public const int design_tint_password_toggle = 2131624038;
 			
 			// aapt resource value: 0x7f0e0016
 			public const int dim_foreground_disabled_material_dark = 2131623958;
@@ -1458,8 +1546,8 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0e001e
 			public const int highlighted_text_material_light = 2131623966;
 			
-			// aapt resource value: 0x7f0e004b
-			public const int launcher_background = 2131624011;
+			// aapt resource value: 0x7f0e004d
+			public const int launcher_background = 2131624013;
 			
 			// aapt resource value: 0x7f0e001f
 			public const int material_blue_grey_800 = 2131623967;
@@ -1548,17 +1636,23 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0e0038
 			public const int secondary_text_disabled_material_light = 2131623992;
 			
+			// aapt resource value: 0x7f0e004c
+			public const int signature_pad_dark_color = 2131624012;
+			
+			// aapt resource value: 0x7f0e004b
+			public const int signature_pad_light_color = 2131624011;
+			
 			// aapt resource value: 0x7f0e0039
 			public const int switch_thumb_disabled_material_dark = 2131623993;
 			
 			// aapt resource value: 0x7f0e003a
 			public const int switch_thumb_disabled_material_light = 2131623994;
 			
-			// aapt resource value: 0x7f0e0065
-			public const int switch_thumb_material_dark = 2131624037;
+			// aapt resource value: 0x7f0e0067
+			public const int switch_thumb_material_dark = 2131624039;
 			
-			// aapt resource value: 0x7f0e0066
-			public const int switch_thumb_material_light = 2131624038;
+			// aapt resource value: 0x7f0e0068
+			public const int switch_thumb_material_light = 2131624040;
 			
 			// aapt resource value: 0x7f0e003b
 			public const int switch_thumb_normal_material_dark = 2131623995;
@@ -2053,6 +2147,18 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0900a3
 			public const int notification_top_pad_large_text = 2131296419;
 			
+			// aapt resource value: 0x7f0900a7
+			public const int signature_pad_font_size = 2131296423;
+			
+			// aapt resource value: 0x7f0900a6
+			public const int signature_pad_line_thickness = 2131296422;
+			
+			// aapt resource value: 0x7f0900a5
+			public const int signature_pad_narrow_spacing = 2131296421;
+			
+			// aapt resource value: 0x7f0900a4
+			public const int signature_pad_wide_spacing = 2131296420;
+			
 			// aapt resource value: 0x7f090062
 			public const int tooltip_corner_radius = 2131296354;
 			
@@ -2342,26 +2448,26 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02012f
-			public const int avd_hide_password_1 = 2130837807;
-			
 			// aapt resource value: 0x7f020130
-			public const int avd_hide_password_2 = 2130837808;
+			public const int avd_hide_password_1 = 2130837808;
 			
 			// aapt resource value: 0x7f020131
-			public const int avd_hide_password_3 = 2130837809;
+			public const int avd_hide_password_2 = 2130837809;
+			
+			// aapt resource value: 0x7f020132
+			public const int avd_hide_password_3 = 2130837810;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020132
-			public const int avd_show_password_1 = 2130837810;
-			
 			// aapt resource value: 0x7f020133
-			public const int avd_show_password_2 = 2130837811;
+			public const int avd_show_password_1 = 2130837811;
 			
 			// aapt resource value: 0x7f020134
-			public const int avd_show_password_3 = 2130837812;
+			public const int avd_show_password_2 = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int avd_show_password_3 = 2130837813;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2999,11 +3105,11 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f020128
 			public const int notification_icon_background = 2130837800;
 			
-			// aapt resource value: 0x7f02012d
-			public const int notification_template_icon_bg = 2130837805;
-			
 			// aapt resource value: 0x7f02012e
-			public const int notification_template_icon_low_bg = 2130837806;
+			public const int notification_template_icon_bg = 2130837806;
+			
+			// aapt resource value: 0x7f02012f
+			public const int notification_template_icon_low_bg = 2130837807;
 			
 			// aapt resource value: 0x7f020129
 			public const int notification_tile_bg = 2130837801;
@@ -3012,10 +3118,13 @@ namespace CameraTest.Droid
 			public const int notify_panel_notification_icon_bg = 2130837802;
 			
 			// aapt resource value: 0x7f02012b
-			public const int tooltip_frame_dark = 2130837803;
+			public const int signature_pad_background = 2130837803;
 			
 			// aapt resource value: 0x7f02012c
-			public const int tooltip_frame_light = 2130837804;
+			public const int tooltip_frame_dark = 2130837804;
+			
+			// aapt resource value: 0x7f02012d
+			public const int tooltip_frame_light = 2130837805;
 			
 			static Drawable()
 			{
@@ -3126,6 +3235,9 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0a0044
 			public const int auto = 2131361860;
 			
+			// aapt resource value: 0x7f0a00c6
+			public const int background_image = 2131361990;
+			
 			// aapt resource value: 0x7f0a002f
 			public const int beginning = 2131361839;
 			
@@ -3141,6 +3253,9 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0a00b7
 			public const int cancel_action = 2131361975;
 			
+			// aapt resource value: 0x7f0a00c8
+			public const int caption = 2131361992;
+			
 			// aapt resource value: 0x7f0a0045
 			public const int center = 2131361861;
 			
@@ -3155,6 +3270,9 @@ namespace CameraTest.Droid
 			
 			// aapt resource value: 0x7f0a00bf
 			public const int chronometer = 2131361983;
+			
+			// aapt resource value: 0x7f0a00cb
+			public const int clear_label = 2131361995;
 			
 			// aapt resource value: 0x7f0a004e
 			public const int clip_horizontal = 2131361870;
@@ -3291,14 +3409,14 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0a0061
 			public const int list_item = 2131361889;
 			
-			// aapt resource value: 0x7f0a00ca
-			public const int masked = 2131361994;
+			// aapt resource value: 0x7f0a00d0
+			public const int masked = 2131362000;
 			
 			// aapt resource value: 0x7f0a00b9
 			public const int media_actions = 2131361977;
 			
-			// aapt resource value: 0x7f0a00c8
-			public const int message = 2131361992;
+			// aapt resource value: 0x7f0a00ce
+			public const int message = 2131361998;
 			
 			// aapt resource value: 0x7f0a0031
 			public const int middle = 2131361841;
@@ -3507,8 +3625,17 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0a0025
 			public const int showTitle = 2131361829;
 			
-			// aapt resource value: 0x7f0a00c6
-			public const int sliding_tabs = 2131361990;
+			// aapt resource value: 0x7f0a00c7
+			public const int signature_canvas = 2131361991;
+			
+			// aapt resource value: 0x7f0a00c9
+			public const int signature_line = 2131361993;
+			
+			// aapt resource value: 0x7f0a00ca
+			public const int signature_prompt = 2131361994;
+			
+			// aapt resource value: 0x7f0a00cc
+			public const int sliding_tabs = 2131361996;
 			
 			// aapt resource value: 0x7f0a008b
 			public const int smallLabel = 2131361931;
@@ -3588,8 +3715,8 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0a006f
 			public const int title_template = 2131361903;
 			
-			// aapt resource value: 0x7f0a00c7
-			public const int toolbar = 2131361991;
+			// aapt resource value: 0x7f0a00cd
+			public const int toolbar = 2131361997;
 			
 			// aapt resource value: 0x7f0a003e
 			public const int top = 2131361854;
@@ -3627,8 +3754,8 @@ namespace CameraTest.Droid
 			// aapt resource value: 0x7f0a0016
 			public const int view_offset_helper = 2131361814;
 			
-			// aapt resource value: 0x7f0a00c9
-			public const int visible = 2131361993;
+			// aapt resource value: 0x7f0a00cf
+			public const int visible = 2131361999;
 			
 			// aapt resource value: 0x7f0a00ab
 			public const int volume_item_container = 2131361963;
@@ -3916,16 +4043,19 @@ namespace CameraTest.Droid
 			public const int select_dialog_singlechoice_material = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int support_simple_spinner_dropdown_item = 2130968640;
+			public const int signature_pad_layout = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int Tabbar = 2130968641;
+			public const int support_simple_spinner_dropdown_item = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int Toolbar = 2130968642;
+			public const int Tabbar = 2130968642;
 			
 			// aapt resource value: 0x7f040043
-			public const int tooltip = 2130968643;
+			public const int Toolbar = 2130968643;
+			
+			// aapt resource value: 0x7f040044
+			public const int tooltip = 2130968644;
 			
 			static Layout()
 			{
@@ -4138,6 +4268,15 @@ namespace CameraTest.Droid
 			
 			// aapt resource value: 0x7f0b0026
 			public const int search_menu_title = 2131427366;
+			
+			// aapt resource value: 0x7f0b003e
+			public const int signature_pad_caption_text = 2131427390;
+			
+			// aapt resource value: 0x7f0b003c
+			public const int signature_pad_clear_label_text = 2131427388;
+			
+			// aapt resource value: 0x7f0b003d
+			public const int signature_pad_prompt_text = 2131427389;
 			
 			// aapt resource value: 0x7f0b003b
 			public const int status_bar_notification_info_overflow = 2131427387;
@@ -7043,6 +7182,64 @@ namespace CameraTest.Droid
 			
 			// aapt resource value: 12
 			public const int SearchView_voiceIcon = 12;
+			
+			public static int[] SignaturePadView = new int[] {
+					2130772339,
+					2130772340,
+					2130772341,
+					2130772342,
+					2130772343,
+					2130772344,
+					2130772345,
+					2130772346,
+					2130772347,
+					2130772348,
+					2130772349,
+					2130772350,
+					2130772351,
+					2130772352};
+			
+			// aapt resource value: 5
+			public const int SignaturePadView_captionText = 5;
+			
+			// aapt resource value: 7
+			public const int SignaturePadView_captionTextColor = 7;
+			
+			// aapt resource value: 6
+			public const int SignaturePadView_captionTextSize = 6;
+			
+			// aapt resource value: 11
+			public const int SignaturePadView_clearLabelText = 11;
+			
+			// aapt resource value: 13
+			public const int SignaturePadView_clearLabelTextColor = 13;
+			
+			// aapt resource value: 12
+			public const int SignaturePadView_clearLabelTextSize = 12;
+			
+			// aapt resource value: 2
+			public const int SignaturePadView_signatureLineColor = 2;
+			
+			// aapt resource value: 4
+			public const int SignaturePadView_signatureLineSpacing = 4;
+			
+			// aapt resource value: 3
+			public const int SignaturePadView_signatureLineWidth = 3;
+			
+			// aapt resource value: 8
+			public const int SignaturePadView_signaturePromptText = 8;
+			
+			// aapt resource value: 10
+			public const int SignaturePadView_signaturePromptTextColor = 10;
+			
+			// aapt resource value: 9
+			public const int SignaturePadView_signaturePromptTextSize = 9;
+			
+			// aapt resource value: 0
+			public const int SignaturePadView_strokeColor = 0;
+			
+			// aapt resource value: 1
+			public const int SignaturePadView_strokeWidth = 1;
 			
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
